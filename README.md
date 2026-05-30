@@ -105,11 +105,7 @@ signlanguage/
 
 Authors
 
-Meenakshi Pandey
-Heena
-Kalika Garg
-Om Aggarwal
-
+**Heena**
 B.Tech (2nd Year)
 
 ⭐ If you found this project useful, give it a star ⭐
